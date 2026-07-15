@@ -1,0 +1,6 @@
+Large Scale Performance Lab Report
+----------------------------------
+Website : https://example.com
+Total Users : 20
+Successful Requests : 20
+Average Response Time : 2.477 sec
